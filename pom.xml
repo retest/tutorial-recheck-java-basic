@@ -20,6 +20,7 @@
 			<groupId>de.retest</groupId>
 			<artifactId>recheck-web</artifactId>
 			<version>1.10.1</version>
+			<scope>test</scope>
 		</dependency>
 		<!-- JUnit -->
 		<dependency>
